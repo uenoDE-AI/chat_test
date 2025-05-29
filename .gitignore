@@ -2,3 +2,5 @@ OPENAI_API_KEY.json
 chat.db
 __pycache__/
 *.pyc
+.streamlit/
+
